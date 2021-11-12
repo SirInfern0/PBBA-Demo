@@ -1,0 +1,4 @@
+--Console for debugging
+function love.conf(t)
+    t.console = true
+end
